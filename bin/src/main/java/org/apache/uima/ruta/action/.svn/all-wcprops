@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action
+END
+RemoveRetainTypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/RemoveRetainTypeAction.java
+END
+CreateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/CreateAction.java
+END
+DelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/DelAction.java
+END
+GreedyAnchoringAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1549527/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/GreedyAnchoringAction.java
+END
+MatchedTextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/MatchedTextAction.java
+END
+TypeSensitiveAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/TypeSensitiveAction.java
+END
+CallAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1651651/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/CallAction.java
+END
+DynamicAnchoringAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/DynamicAnchoringAction.java
+END
+ColorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/ColorAction.java
+END
+AbstractMarkAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/AbstractMarkAction.java
+END
+ConfigureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1668388/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/ConfigureAction.java
+END
+AbstractStructureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1687007/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/AbstractStructureAction.java
+END
+ExecAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1663165/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/ExecAction.java
+END
+AssignAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1687007/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/AssignAction.java
+END
+ClearAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/ClearAction.java
+END
+UnmarkAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1565285/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/UnmarkAllAction.java
+END
+FillAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1558801/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/FillAction.java
+END
+FilterTypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/FilterTypeAction.java
+END
+AddAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/AddAction.java
+END
+GetFeatureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/GetFeatureAction.java
+END
+AddRetainTypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/AddRetainTypeAction.java
+END
+UnmarkAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/UnmarkAction.java
+END
+MergeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/MergeAction.java
+END
+MarkOnceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/MarkOnceAction.java
+END
+AbstractRutaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/AbstractRutaAction.java
+END
+MarkFirstAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/MarkFirstAction.java
+END
+MarkTableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/MarkTableAction.java
+END
+TrieAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1632059/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/TrieAction.java
+END
+RemoveFilterTypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/RemoveFilterTypeAction.java
+END
+SetFeatureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1650333/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/SetFeatureAction.java
+END
+ActionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1632059/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/ActionFactory.java
+END
+MarkFastAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1636886/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/MarkFastAction.java
+END
+ComposedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/ComposedAction.java
+END
+GatherAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/GatherAction.java
+END
+TrimAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1578272/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/TrimAction.java
+END
+GetListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1558739/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/GetListAction.java
+END
+ReplaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/ReplaceAction.java
+END
+ShiftAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1659669/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/ShiftAction.java
+END
+MarkLastAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/MarkLastAction.java
+END
+GetAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/GetAction.java
+END
+LogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/LogAction.java
+END
+RetainTypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/RetainTypeAction.java
+END
+TransferAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1601861/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/TransferAction.java
+END
+ImplicitMarkAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/ImplicitMarkAction.java
+END
+VariableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/VariableAction.java
+END
+ImplicitFeatureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1680076/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/ImplicitFeatureAction.java
+END
+RemoveDuplicateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/RemoveDuplicateAction.java
+END
+MarkAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/MarkAction.java
+END
+RemoveAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/RemoveAction.java
+END
+AddFilterTypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/action/AddFilterTypeAction.java
+END

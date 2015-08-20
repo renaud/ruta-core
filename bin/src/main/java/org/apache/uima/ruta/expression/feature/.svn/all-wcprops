@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1694632/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/feature
+END
+SimpleFeatureExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1694632/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/feature/SimpleFeatureExpression.java
+END
+FeatureMatchExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1694632/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/feature/FeatureMatchExpression.java
+END
+GenericFeatureExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1687007/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/feature/GenericFeatureExpression.java
+END
+FeatureExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1628994/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/feature/FeatureExpression.java
+END

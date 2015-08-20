@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 37
+target
+.classpath
+.project
+.settings
+
+K 13
+svn:mergeinfo
+V 55
+/uima/ruta/branches/UIMA-3569/ruta-core:1568267-1569288
+END

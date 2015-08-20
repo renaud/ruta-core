@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/resources/META-INF/org.apache.uima.fit
+END
+types.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/resources/META-INF/org.apache.uima.fit/types.txt
+END
+typepriorities.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/resources/META-INF/org.apache.uima.fit/typepriorities.txt
+END

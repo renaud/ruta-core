@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1694904/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta
+END
+ComposedRuleElementWithQuantifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/ComposedRuleElementWithQuantifierTest.java
+END
+ZeroLengthAnnotationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1685863/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/ZeroLengthAnnotationTest.java
+END
+NBSPWSTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/NBSPWSTest.java
+END
+LoadResourceFromClassPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/LoadResourceFromClassPathTest.java
+END
+LongGreedy1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/LongGreedy1Test.java
+END
+FilteringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/FilteringTest.java
+END
+Quantifier3Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/Quantifier3Test.java
+END
+NestedDisjunctiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/NestedDisjunctiveTest.java
+END
+FeatureMatch2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/FeatureMatch2Test.java
+END
+Quantifier7Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/Quantifier7Test.java
+END
+CustomViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/CustomViewTest.java
+END
+OptionalComposedEndTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/OptionalComposedEndTest.java
+END
+RuleInference1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/RuleInference1Test.java
+END
+GreedyAnchoringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/GreedyAnchoringTest.java
+END
+OptionalDisjunctiveBeforeAnchoringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/OptionalDisjunctiveBeforeAnchoringTest.java
+END
+WildCard1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/WildCard1Test.java
+END
+GreedyComposedWithConditionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/GreedyComposedWithConditionTest.java
+END
+LongGreedy2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/LongGreedy2Test.java
+END
+RegExpRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/RegExpRuleTest.java
+END
+SubAtomicTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/SubAtomicTest.java
+END
+RemoveDocumentAnnotationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1676816/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/RemoveDocumentAnnotationTest.java
+END
+NullExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/NullExpressionTest.java
+END
+Quantifier4Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/Quantifier4Test.java
+END
+LoadScriptFromClassPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/LoadScriptFromClassPathTest.java
+END
+AlternativeMatchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1690378/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/AlternativeMatchTest.java
+END
+TypeAliasTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/TypeAliasTest.java
+END
+CoveredTextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/CoveredTextTest.java
+END
+InlinedRulesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1687312/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/InlinedRulesTest.java
+END
+EmptyDocumentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1659672/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/EmptyDocumentTest.java
+END
+DynamicAnchoring1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/DynamicAnchoring1Test.java
+END
+Quantifier8Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/Quantifier8Test.java
+END
+SidestepInComposedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/SidestepInComposedTest.java
+END
+CommentBeforePackageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/CommentBeforePackageTest.java
+END
+ReverseQuantifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/ReverseQuantifierTest.java
+END
+ShiftWithLowMemoryProfileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1578941/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/ShiftWithLowMemoryProfileTest.java
+END
+RuleInference2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/RuleInference2Test.java
+END
+WildCard2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/WildCard2Test.java
+END
+OutOfWindowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1687528/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/OutOfWindowTest.java
+END
+ExternalWordResourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/ExternalWordResourceTest.java
+END
+EqualShortNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/EqualShortNameTest.java
+END
+Quantifier1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/Quantifier1Test.java
+END
+Quantifier5Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/Quantifier5Test.java
+END
+ConjunctRulesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/ConjunctRulesTest.java
+END
+DynamicAnchoring2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/DynamicAnchoring2Test.java
+END
+LiteralStringMatchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/LiteralStringMatchTest.java
+END
+ConflictingTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/ConflictingTypeTest.java
+END
+ImplicitRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1676705/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/ImplicitRuleTest.java
+END
+StrictImportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1567097/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/StrictImportTest.java
+END
+NewCASPipelineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/NewCASPipelineTest.java
+END
+ManualAnchoringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/ManualAnchoringTest.java
+END
+RuleInference3Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/RuleInference3Test.java
+END
+RutaParsingErrorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1694904/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/RutaParsingErrorTest.java
+END
+MarkInGreedyComposedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/MarkInGreedyComposedTest.java
+END
+InvisibleWildcardMatchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/InvisibleWildcardMatchTest.java
+END
+WildCard3Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/WildCard3Test.java
+END
+AdditionalScriptUimaFitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/AdditionalScriptUimaFitTest.java
+END
+WSDictionaryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/WSDictionaryTest.java
+END
+ImportStatementsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1565285/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/ImportStatementsTest.java
+END
+IncompletePartitioningTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/IncompletePartitioningTest.java
+END
+FeatureMatch1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/FeatureMatch1Test.java
+END
+ConjunctiveRuleElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/ConjunctiveRuleElementTest.java
+END
+Quantifier2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/Quantifier2Test.java
+END
+Quantifier6Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/Quantifier6Test.java
+END

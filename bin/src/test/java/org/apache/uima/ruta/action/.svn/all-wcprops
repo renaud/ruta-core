@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1690378/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action
+END
+MergeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/MergeTest.java
+END
+Shift2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/Shift2Test.java
+END
+MarkOnceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/MarkOnceTest.java
+END
+MarkTableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/MarkTableTest.java
+END
+TrieTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/TrieTest.java
+END
+RemoveFilterTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/RemoveFilterTypeTest.java
+END
+SetFeatureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1578941/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/SetFeatureTest.java
+END
+MarkFastTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/MarkFastTest.java
+END
+GatherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/GatherTest.java
+END
+GetListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/GetListTest.java
+END
+ReplaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/ReplaceTest.java
+END
+TrimTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/TrimTest.java
+END
+MarkLastTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/MarkLastTest.java
+END
+GetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/GetTest.java
+END
+RetainTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/RetainTypeTest.java
+END
+TransferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1578941/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/TransferTest.java
+END
+MarkScoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/MarkScoreTest.java
+END
+RemoveDuplicateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/RemoveDuplicateTest.java
+END
+MarkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/MarkTest.java
+END
+RemoveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/RemoveTest.java
+END
+Shift1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/Shift1Test.java
+END
+MarkFirstActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/MarkFirstActionTest.java
+END
+AddFilterTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/AddFilterTypeTest.java
+END
+RemoveRetainTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/RemoveRetainTypeTest.java
+END
+CreateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/CreateTest.java
+END
+Transfer2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1601861/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/Transfer2Test.java
+END
+ImplicitActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/ImplicitActionTest.java
+END
+MatchedTextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/MatchedTextTest.java
+END
+ClearTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/ClearTest.java
+END
+UnmarkAllTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/UnmarkAllTest.java
+END
+FillTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1578941/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/FillTest.java
+END
+FilterTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/FilterTypeTest.java
+END
+GetFeatureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/GetFeatureTest.java
+END
+UnmarkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/UnmarkTest.java
+END
+AddRetainTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/action/AddRetainTypeTest.java
+END

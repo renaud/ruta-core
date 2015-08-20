@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/number
+END
+INumberExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/number/INumberExpression.java
+END
+ComposedNumberExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/number/ComposedNumberExpression.java
+END
+SimpleNumberExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/number/SimpleNumberExpression.java
+END
+NumberFeatureExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1628994/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/number/NumberFeatureExpression.java
+END
+ReferenceNumberExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/number/ReferenceNumberExpression.java
+END
+NegativeNumberExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/number/NegativeNumberExpression.java
+END
+AbstractNumberExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1694033/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/number/AbstractNumberExpression.java
+END
+NumberFunctionExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/number/NumberFunctionExpression.java
+END

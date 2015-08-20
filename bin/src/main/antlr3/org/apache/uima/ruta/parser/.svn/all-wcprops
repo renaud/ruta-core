@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1694033/uima/ruta/trunk/ruta-core/src/main/antlr3/org/apache/uima/ruta/parser
+END
+RutaLexer.g
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1694033/uima/ruta/trunk/ruta-core/src/main/antlr3/org/apache/uima/ruta/parser/RutaLexer.g
+END
+RutaParser.tokens
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1556849/uima/ruta/trunk/ruta-core/src/main/antlr3/org/apache/uima/ruta/parser/RutaParser.tokens
+END
+RutaLexer.tokens
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1556849/uima/ruta/trunk/ruta-core/src/main/antlr3/org/apache/uima/ruta/parser/RutaLexer.tokens
+END
+RutaParser.g
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1694033/uima/ruta/trunk/ruta-core/src/main/antlr3/org/apache/uima/ruta/parser/RutaParser.g
+END

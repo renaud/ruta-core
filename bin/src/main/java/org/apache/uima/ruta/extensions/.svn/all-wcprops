@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1694904/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions
+END
+IRutaActionExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/IRutaActionExtension.java
+END
+IRutaNumberFunctionExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/IRutaNumberFunctionExtension.java
+END
+DefaultEngineLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1642960/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/DefaultEngineLoader.java
+END
+IRutaExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/IRutaExtension.java
+END
+IEngineLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/IEngineLoader.java
+END
+RutaParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/RutaParseException.java
+END
+RutaExternalFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1635493/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/RutaExternalFactory.java
+END
+IRutaBooleanFunctionExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/IRutaBooleanFunctionExtension.java
+END
+IRutaConditionExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/IRutaConditionExtension.java
+END
+RutaEngineLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/RutaEngineLoader.java
+END
+IRutaTypeFunctionExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/IRutaTypeFunctionExtension.java
+END
+RutaParseRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1694904/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/RutaParseRuntimeException.java
+END
+IRutaBlockExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1569303/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/IRutaBlockExtension.java
+END
+IRutaStringFunctionExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/extensions/IRutaStringFunctionExtension.java
+END

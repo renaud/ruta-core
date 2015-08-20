@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1636576/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/seed
+END
+SeedLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1636576/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/seed/SeedLexer.java
+END
+DefaultSeeder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/seed/DefaultSeeder.java
+END
+SeedLexer.flex
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1636576/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/seed/SeedLexer.flex
+END
+RutaAnnotationSeeder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/seed/RutaAnnotationSeeder.java
+END

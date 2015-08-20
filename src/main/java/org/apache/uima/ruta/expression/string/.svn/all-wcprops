@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1628994/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/string
+END
+IStringExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/string/IStringExpression.java
+END
+ComposedStringExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/string/ComposedStringExpression.java
+END
+SimpleStringExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/string/SimpleStringExpression.java
+END
+StringFeatureExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1628994/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/string/StringFeatureExpression.java
+END
+LiteralStringExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/string/LiteralStringExpression.java
+END
+RemoveFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/string/RemoveFunction.java
+END
+StringFunctionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/string/StringFunctionFactory.java
+END
+ReferenceStringExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/string/ReferenceStringExpression.java
+END
+AbstractStringExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/string/AbstractStringExpression.java
+END
+StringFunctionExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/string/StringFunctionExpression.java
+END

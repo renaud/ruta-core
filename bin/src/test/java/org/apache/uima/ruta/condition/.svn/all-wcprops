@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1694033/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition
+END
+MOfNTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/MOfNTest.java
+END
+PartOfNEQTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/PartOfNEQTest.java
+END
+NotTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/NotTest.java
+END
+AfterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/AfterTest.java
+END
+AndTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/AndTest.java
+END
+BeforeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/BeforeTest.java
+END
+ImplicitCondition1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/ImplicitCondition1Test.java
+END
+InListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/InListTest.java
+END
+ImplicitCondition2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/ImplicitCondition2Test.java
+END
+LastTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/LastTest.java
+END
+PositionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/PositionTest.java
+END
+ParseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1694033/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/ParseTest.java
+END
+SizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/SizeTest.java
+END
+IsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/IsTest.java
+END
+ScoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/ScoreTest.java
+END
+StartsWithTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/StartsWithTest.java
+END
+VoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/VoteTest.java
+END
+ContainsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/ContainsTest.java
+END
+OrTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/OrTest.java
+END
+PartOfNEQ2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/PartOfNEQ2Test.java
+END
+NearTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/NearTest.java
+END
+EndsWithTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/EndsWithTest.java
+END
+CountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/CountTest.java
+END
+RegExpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/RegExpTest.java
+END
+PartOfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/PartOfTest.java
+END
+CurrentCountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/CurrentCountTest.java
+END
+FeatureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/FeatureTest.java
+END
+TotalCountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/TotalCountTest.java
+END
+ContextCountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/ContextCountTest.java
+END
+IfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/condition/IfTest.java
+END

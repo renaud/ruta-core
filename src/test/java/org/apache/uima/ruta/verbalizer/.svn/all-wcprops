@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1632059/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/verbalizer
+END
+ActionVerbalizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1632059/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/verbalizer/ActionVerbalizerTest.java
+END
+ExpressionVerbalizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/verbalizer/ExpressionVerbalizerTest.java
+END
+ConditionVerbalizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1574412/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/verbalizer/ConditionVerbalizerTest.java
+END

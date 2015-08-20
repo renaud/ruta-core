@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1676841/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/resource
+END
+LiteralWordTableExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/resource/LiteralWordTableExpression.java
+END
+ReferenceWordTableExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/resource/ReferenceWordTableExpression.java
+END
+WordTableExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/resource/WordTableExpression.java
+END
+LiteralWordListExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/resource/LiteralWordListExpression.java
+END
+ExternalWordTableExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1676841/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/resource/ExternalWordTableExpression.java
+END
+ReferenceWordListExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/resource/ReferenceWordListExpression.java
+END
+WordListExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/resource/WordListExpression.java
+END
+ExternalWordListExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1676841/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/resource/ExternalWordListExpression.java
+END

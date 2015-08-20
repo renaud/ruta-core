@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1578956/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/visitor
+END
+TimeProfilerVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/visitor/TimeProfilerVisitor.java
+END
+CreatedByVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/visitor/CreatedByVisitor.java
+END
+DebugInfoCollectorVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/visitor/DebugInfoCollectorVisitor.java
+END
+DebugInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1578956/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/visitor/DebugInfoFactory.java
+END
+RutaInferenceVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/visitor/RutaInferenceVisitor.java
+END
+StatisticsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/visitor/StatisticsVisitor.java
+END
+InferenceCrowd.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1558739/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/visitor/InferenceCrowd.java
+END

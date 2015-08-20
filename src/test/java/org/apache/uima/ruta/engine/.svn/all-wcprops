@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1690383/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/engine
+END
+CascadedModifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1589190/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/engine/CascadedModifierTest.java
+END
+ViewWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1676707/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/engine/ViewWriterTest.java
+END
+ParamVarTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/engine/ParamVarTest.java
+END
+HtmlAnnotatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/engine/HtmlAnnotatorTest.java
+END
+RutaModifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1652399/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/engine/RutaModifierTest.java
+END
+RulesParamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1676719/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/engine/RulesParamTest.java
+END
+RutaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1578941/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/engine/RutaTest.java
+END
+HtmlConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1652118/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/engine/HtmlConverterTest.java
+END
+HtmlConverterXmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1673376/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/engine/HtmlConverterXmlTest.java
+END
+PlainTextAnnotatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1639627/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/engine/PlainTextAnnotatorTest.java
+END
+UimafitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1690383/uima/ruta/trunk/ruta-core/src/test/java/org/apache/uima/ruta/engine/UimafitTest.java
+END

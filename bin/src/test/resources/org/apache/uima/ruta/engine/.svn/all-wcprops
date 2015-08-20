@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1676707/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine
+END
+CWTypeSystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1589198/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/CWTypeSystem.xml
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/test.html
+END
+testHtmlDecodingAnnotations.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/testHtmlDecodingAnnotations.html
+END
+CW.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1589190/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/CW.ruta
+END
+testWithComments.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/testWithComments.html
+END
+AAE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1589198/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/AAE.xml
+END
+testUnix.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/testUnix.html
+END
+ModifierCW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1589190/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/ModifierCW.xml
+END
+testWithCommentsAndScript.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/testWithCommentsAndScript.html
+END
+CWEngine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1636576/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/CWEngine.xml
+END
+SimpleTypeSystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1589198/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/SimpleTypeSystem.xml
+END
+SWTypeSystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1589198/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/SWTypeSystem.xml
+END
+testWin.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/testWin.html
+END
+Simple.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1589190/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/Simple.ruta
+END
+SW.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1589190/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/SW.ruta
+END
+RutaModifierTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1676707/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/RutaModifierTest.ruta
+END
+testHtmlDecoding.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/testHtmlDecoding.html
+END
+ViewWriter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/ViewWriter.xml
+END
+ModifierSW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1589190/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/ModifierSW.xml
+END
+UimafitTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/UimafitTest.ruta
+END
+PlainTextAnnotatorTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1639627/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/PlainTextAnnotatorTest.txt
+END
+SimpleEngine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1636576/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/SimpleEngine.xml
+END
+SWEngine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1636576/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/engine/SWEngine.xml
+END

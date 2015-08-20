@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1694033/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition
+END
+LastTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/LastTest.txt
+END
+ParseTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1694033/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/ParseTest.ruta
+END
+SizeTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/SizeTest.ruta
+END
+ScoreTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/ScoreTest.ruta
+END
+IsTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/IsTest.ruta
+END
+StartsWithTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/StartsWithTest.ruta
+END
+VoteTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/VoteTest.ruta
+END
+SizeTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/SizeTest.txt
+END
+ContainsTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/ContainsTest.ruta
+END
+ParseTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/ParseTest.txt
+END
+StartsWithTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/StartsWithTest.txt
+END
+ContainsTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/ContainsTest.txt
+END
+NearTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/NearTest.ruta
+END
+EndsWithTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/EndsWithTest.ruta
+END
+FeatureTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1676707/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/FeatureTest.ruta
+END
+PartOfTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/PartOfTest.ruta
+END
+IfTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/IfTest.ruta
+END
+PartOfNEQTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/PartOfNEQTest.ruta
+END
+CurrentCountTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/CurrentCountTest.txt
+END
+MOfNTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/MOfNTest.ruta
+END
+NotTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/NotTest.ruta
+END
+ContextCountTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/ContextCountTest.txt
+END
+InListTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/InListTest.ruta
+END
+ImplicitCondition1Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/ImplicitCondition1Test.ruta
+END
+BeforeTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/BeforeTest.ruta
+END
+InListTestList.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/InListTestList.txt
+END
+IfTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/IfTest.txt
+END
+AndTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/AndTest.ruta
+END
+LastTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/LastTest.ruta
+END
+PositionTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/PositionTest.ruta
+END
+NotTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/NotTest.txt
+END
+AfterTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/AfterTest.txt
+END
+BeforeTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/BeforeTest.txt
+END
+InListTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/InListTest.txt
+END
+AndTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/AndTest.txt
+END
+PositionTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/PositionTest.txt
+END
+IsTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/IsTest.txt
+END
+ScoreTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/ScoreTest.txt
+END
+OrTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/OrTest.ruta
+END
+VoteTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/VoteTest.txt
+END
+OrTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/OrTest.txt
+END
+CountTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/CountTest.ruta
+END
+EndsWithTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/EndsWithTest.txt
+END
+NearTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/NearTest.txt
+END
+RegExpTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/RegExpTest.ruta
+END
+CurrentCountTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/CurrentCountTest.ruta
+END
+TotalCountTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1676707/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/TotalCountTest.ruta
+END
+CountTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/CountTest.txt
+END
+ContextCountTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/ContextCountTest.ruta
+END
+RegExpTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/RegExpTest.txt
+END
+FeatureTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/FeatureTest.txt
+END
+PartOfTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/PartOfTest.txt
+END
+TotalCountTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/TotalCountTest.txt
+END
+AfterTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/AfterTest.ruta
+END
+MOfNTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/MOfNTest.txt
+END
+PartOfNEQTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/condition/PartOfNEQTest.txt
+END

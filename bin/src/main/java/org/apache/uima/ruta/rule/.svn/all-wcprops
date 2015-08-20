@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1690377/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule
+END
+RegExpRuleMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RegExpRuleMatch.java
+END
+ConjunctRulesRuleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/ConjunctRulesRuleElement.java
+END
+AnnotationComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/AnnotationComparator.java
+END
+RuleElementCaretaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1558113/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RuleElementCaretaker.java
+END
+RutaRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1676781/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RutaRule.java
+END
+AbstractRuleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1687312/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/AbstractRuleElement.java
+END
+AbstractRuleMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/AbstractRuleMatch.java
+END
+RuleElementComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RuleElementComparator.java
+END
+ComposedRuleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1668391/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/ComposedRuleElement.java
+END
+RuleMatchComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RuleMatchComparator.java
+END
+RutaRuleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1690377/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RutaRuleElement.java
+END
+RuleApply.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RuleApply.java
+END
+RutaMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RutaMatcher.java
+END
+RuleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1687312/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RuleElement.java
+END
+EvaluatedCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/EvaluatedCondition.java
+END
+RutaTypeMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1660066/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RutaTypeMatcher.java
+END
+RegExpRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1558786/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RegExpRule.java
+END
+RuleMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1658807/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RuleMatch.java
+END
+RuleElementContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RuleElementContainer.java
+END
+ComposedRuleElementMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1596558/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/ComposedRuleElementMatch.java
+END
+WildCardRuleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1687790/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/WildCardRuleElement.java
+END
+AbstractRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/AbstractRule.java
+END
+RutaLiteralMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RutaLiteralMatcher.java
+END
+RuleElementIsolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RuleElementIsolator.java
+END
+RuleElementMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1579201/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/rule/RuleElementMatch.java
+END

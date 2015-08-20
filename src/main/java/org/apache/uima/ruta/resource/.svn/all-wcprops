@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1685855/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource
+END
+XMLEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/XMLEventHandler.java
+END
+MultiTreeWordList.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1671599/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/MultiTreeWordList.java
+END
+RutaWordList.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1632059/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/RutaWordList.java
+END
+ResourcePathResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/ResourcePathResourceLoader.java
+END
+CSVTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1636886/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/CSVTable.java
+END
+MultiTextNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1561844/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/MultiTextNode.java
+END
+MultiTreeWordListPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1680532/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/MultiTreeWordListPersistence.java
+END
+RutaResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/RutaResourceLoader.java
+END
+AnonymousWordList.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1632059/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/AnonymousWordList.java
+END
+RutaTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1636886/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/RutaTable.java
+END
+TrieXMLEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1561844/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/TrieXMLEventHandler.java
+END
+TreeWordList.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1685855/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/TreeWordList.java
+END
+EditDistanceCostMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/EditDistanceCostMap.java
+END
+TextNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/TextNode.java
+END
+EditDistanceResultMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/resource/EditDistanceResultMap.java
+END

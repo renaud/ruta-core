@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1690383/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/descriptor
+END
+RutaDescriptorInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1674767/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/descriptor/RutaDescriptorInformation.java
+END
+RutaDescriptorBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1690383/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/descriptor/RutaDescriptorBuilder.java
+END
+RutaDescriptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1690383/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/descriptor/RutaDescriptorFactory.java
+END
+StringTriple.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1668386/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/descriptor/StringTriple.java
+END
+RutaBuildOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1674767/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/descriptor/RutaBuildOptions.java
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition
+END
+CountCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/CountCondition.java
+END
+RegExpCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/RegExpCondition.java
+END
+PartOfCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1565285/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/PartOfCondition.java
+END
+FeatureCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1650333/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/FeatureCondition.java
+END
+TotalCountCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/TotalCountCondition.java
+END
+PartOfNeqCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1565595/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/PartOfNeqCondition.java
+END
+MOfNCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/MOfNCondition.java
+END
+AbstractRutaCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/AbstractRutaCondition.java
+END
+LastCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/LastCondition.java
+END
+ParseCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1694033/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/ParseCondition.java
+END
+SizeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/SizeCondition.java
+END
+StartsWithCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1659664/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/StartsWithCondition.java
+END
+ContainsCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/ContainsCondition.java
+END
+VariableCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/VariableCondition.java
+END
+CurrentCountCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/CurrentCountCondition.java
+END
+ContextCountCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1565285/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/ContextCountCondition.java
+END
+IfCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1687780/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/IfCondition.java
+END
+NotCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/NotCondition.java
+END
+AfterCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/AfterCondition.java
+END
+AndCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/AndCondition.java
+END
+BeforeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/BeforeCondition.java
+END
+InListCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1589719/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/InListCondition.java
+END
+PositionCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/PositionCondition.java
+END
+ComposedRutaCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/ComposedRutaCondition.java
+END
+ConditionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1694033/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/ConditionFactory.java
+END
+TerminalRutaCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/TerminalRutaCondition.java
+END
+ImplicitCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1687780/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/ImplicitCondition.java
+END
+IsCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1565285/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/IsCondition.java
+END
+ScoreCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1687780/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/ScoreCondition.java
+END
+VoteCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/VoteCondition.java
+END
+TypeSentiveCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/TypeSentiveCondition.java
+END
+OrCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/OrCondition.java
+END
+NearCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/NearCondition.java
+END
+EndsWithCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1659664/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/condition/EndsWithCondition.java
+END

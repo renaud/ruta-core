@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta
+END
+FilterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1558739/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/FilterManager.java
+END
+BlockApply.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/BlockApply.java
+END
+RutaEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1680532/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/RutaEnvironment.java
+END
+RutaStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/RutaStatement.java
+END
+RutaModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1651651/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/RutaModule.java
+END
+RutaElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/RutaElement.java
+END
+RutaBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1635493/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/RutaBlock.java
+END
+RutaStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1694453/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/RutaStream.java
+END
+RutaScriptFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1676705/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/RutaScriptFactory.java
+END
+UIMAConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1613955/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/UIMAConstants.java
+END
+ScriptApply.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/ScriptApply.java
+END
+RutaScriptBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1676781/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/RutaScriptBlock.java
+END

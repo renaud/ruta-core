@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1696238/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine
+END
+RutaEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1691884/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/RutaEngine.java
+END
+RutaCutter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1652118/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/RutaCutter.java
+END
+AnnotationWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1652118/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/AnnotationWriter.java
+END
+ViewWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1680532/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/ViewWriter.java
+END
+Ruta.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1628667/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/Ruta.java
+END
+HtmlConverterVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1669095/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/HtmlConverterVisitor.java
+END
+HtmlConverterPSpanReplacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/HtmlConverterPSpanReplacement.java
+END
+StyleMapCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1652399/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/StyleMapCreator.java
+END
+HtmlVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1557996/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/HtmlVisitor.java
+END
+StyleMapFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/StyleMapFactory.java
+END
+XMIWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1652118/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/XMIWriter.java
+END
+HtmlAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1652118/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/HtmlAnnotator.java
+END
+RutaModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1652399/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/RutaModifier.java
+END
+HtmlConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1696238/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/HtmlConverter.java
+END
+RutaTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1680532/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/RutaTestUtils.java
+END
+PlainTextAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1639627/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/PlainTextAnnotator.java
+END
+HtmlConverterPSpan.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/engine/HtmlConverterPSpan.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/bool
+END
+SimpleBooleanFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/bool/SimpleBooleanFunction.java
+END
+BooleanTypeExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/bool/BooleanTypeExpression.java
+END
+AbstractBooleanExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1632059/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/bool/AbstractBooleanExpression.java
+END
+BooleanFunctionExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/bool/BooleanFunctionExpression.java
+END
+BooleanNumberExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1687780/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/bool/BooleanNumberExpression.java
+END
+IBooleanExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1548429/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/bool/IBooleanExpression.java
+END
+SimpleBooleanExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/bool/SimpleBooleanExpression.java
+END
+BooleanFeatureExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1628994/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/bool/BooleanFeatureExpression.java
+END
+ReferenceBooleanExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1695152/uima/ruta/trunk/ruta-core/src/main/java/org/apache/uima/ruta/expression/bool/ReferenceBooleanExpression.java
+END

@@ -1,0 +1,503 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1694033/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta
+END
+CustomViewTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/CustomViewTest.ruta
+END
+OptionalComposedEndTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/OptionalComposedEndTest.ruta
+END
+ImportStatementsTestImportAllPackagesWithAliasFromTypeSystem.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1557016/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestImportAllPackagesWithAliasFromTypeSystem.ruta
+END
+RuleInference1Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/RuleInference1Test.ruta
+END
+WildCard1Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676707/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/WildCard1Test.ruta
+END
+OptionalComposedEndTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/OptionalComposedEndTest.txt
+END
+BasicTypeSystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1636576/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/BasicTypeSystem.xml
+END
+WildCard1Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/WildCard1Test.txt
+END
+WildCard3Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/WildCard3Test.txt
+END
+LongGreedy2Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/LongGreedy2Test.ruta
+END
+RegExpRuleTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/RegExpRuleTest.ruta
+END
+RegExpRuleTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/RegExpRuleTest.txt
+END
+SubAtomicTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/SubAtomicTest.ruta
+END
+ImportStatementsTestTypeSystemWithAmbiguousShortNames.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1556715/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestTypeSystemWithAmbiguousShortNames.xml
+END
+SubAtomicTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/SubAtomicTest.txt
+END
+Quantifier4Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/Quantifier4Test.ruta
+END
+TypeAliasTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1628994/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/TypeAliasTest.ruta
+END
+TS1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1676841/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/TS1.xml
+END
+TS2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1676841/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/TS2.xml
+END
+ImportStatementsTestTypeSystemWithManyPackages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1557016/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestTypeSystemWithManyPackages.xml
+END
+DynamicAnchoring2Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/DynamicAnchoring2Test.txt
+END
+ShiftWithLowMemoryProfileTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ShiftWithLowMemoryProfileTest.ruta
+END
+TypeAliasTestEngine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1676841/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/TypeAliasTestEngine.xml
+END
+InternalTypeSystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/InternalTypeSystem.xml
+END
+Additional.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1630074/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/Additional.ruta
+END
+RuleInference2Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1676707/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/RuleInference2Test.ruta
+END
+ImportStatementsTestImportPackageAs.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1563536/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestImportPackageAs.ruta
+END
+ImportStatementsTestTypeSystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1556712/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestTypeSystem.xml
+END
+ImportStatementsTestImportTypeFromDefaultTypeSystem.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1556712/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestImportTypeFromDefaultTypeSystem.ruta
+END
+ImportStatementsTestImportType.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1556712/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestImportType.ruta
+END
+TypePriorities.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/TypePriorities.xml
+END
+OutOfWindowTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1676707/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/OutOfWindowTest.ruta
+END
+LongGreedy1Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/LongGreedy1Test.txt
+END
+LongGreedy2Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/LongGreedy2Test.txt
+END
+Quantifier1Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/Quantifier1Test.ruta
+END
+EqualShortNameTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/EqualShortNameTest.ruta
+END
+TestEngine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1651651/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/TestEngine.xml
+END
+IncompletePartitioningTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/IncompletePartitioningTest.txt
+END
+Quantifier5Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/Quantifier5Test.ruta
+END
+ImportStatementsTestImportPackageAliasFromTypeSystem.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1556716/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestImportPackageAliasFromTypeSystem.ruta
+END
+DynamicAnchoring2Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/DynamicAnchoring2Test.ruta
+END
+StrictImportTestTypeSystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/StrictImportTestTypeSystem.xml
+END
+LiteralStringMatchTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/LiteralStringMatchTest.ruta
+END
+ImportStatementsTestImportAllPackagesFromTypeSystem.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1557016/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestImportAllPackagesFromTypeSystem.ruta
+END
+EmptyDocumentTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/EmptyDocumentTest.txt
+END
+ConflictingTypeTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ConflictingTypeTest.ruta
+END
+ImportStatementsTestImportStarFromTypeSystem.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1556714/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestImportStarFromTypeSystem.ruta
+END
+AdditionalTypeSystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1676841/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/AdditionalTypeSystem.xml
+END
+NewCASPipelineTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/NewCASPipelineTest.ruta
+END
+ShiftWithLowMemoryProfileTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ShiftWithLowMemoryProfileTest.txt
+END
+RuleInference3Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1676707/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/RuleInference3Test.ruta
+END
+ImportStatementsTestImportPackageFromCasTypeSystem.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1556717/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestImportPackageFromCasTypeSystem.ruta
+END
+ImportStatementsTestImportAllPackagesFromTypeSystemWithAmbiguousShortNames.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1557016/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestImportAllPackagesFromTypeSystemWithAmbiguousShortNames.ruta
+END
+WildCard3Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/WildCard3Test.ruta
+END
+Main.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1676707/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/Main.ruta
+END
+FilteringTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/FilteringTest.txt
+END
+IncompletePartitioningTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/IncompletePartitioningTest.ruta
+END
+Quantifier2Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1676707/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/Quantifier2Test.ruta
+END
+FeatureMatch1Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/FeatureMatch1Test.ruta
+END
+ConflictingTypeSystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ConflictingTypeSystem.xml
+END
+StrictImportTestDeclaredTypeSystem.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/StrictImportTestDeclaredTypeSystem.ruta
+END
+RuleInference1Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/RuleInference1Test.txt
+END
+RuleInference2Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/RuleInference2Test.txt
+END
+RuleInference3Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/RuleInference3Test.txt
+END
+WSDictionaryTestList.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1636886/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/WSDictionaryTestList.txt
+END
+MainTypeSystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676841/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/MainTypeSystem.xml
+END
+LongGreedy1Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/LongGreedy1Test.ruta
+END
+FilteringTest.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1676707/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/FilteringTest.ruta
+END
+ImportStatementsTestImportPackageFromTypeSystem.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1556715/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestImportPackageFromTypeSystem.ruta
+END
+OutOfWindowTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/OutOfWindowTest.txt
+END
+table2.csv
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1636886/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/table2.csv
+END
+Quantifier3Test.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/Quantifier3Test.ruta
+END
+ImportStatementsTestUnimportedTypesAreNotResolved.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1556712/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestUnimportedTypesAreNotResolved.ruta
+END
+EqualShortNameTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/EqualShortNameTest.txt
+END
+Quantifier1Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/Quantifier1Test.txt
+END
+Quantifier2Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/Quantifier2Test.txt
+END
+FeatureMatch1Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/FeatureMatch1Test.txt
+END
+Quantifier3Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/Quantifier3Test.txt
+END
+Quantifier4Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/Quantifier4Test.txt
+END
+Quantifier5Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/Quantifier5Test.txt
+END
+StrictImportTestUndeclaredTypeSystem.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/StrictImportTestUndeclaredTypeSystem.ruta
+END
+ImportStatementsTestImportTypeAs.ruta
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1556713/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/ImportStatementsTestImportTypeAs.ruta
+END
+LiteralStringMatchTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1545588/uima/ruta/trunk/ruta-core/src/test/resources/org/apache/uima/ruta/LiteralStringMatchTest.txt
+END
