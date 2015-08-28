@@ -64,7 +64,7 @@ public class MarkTableAction extends AbstractRutaAction {
 
   private final INumberExpression maxIgnoreChar;
   
-  private IBooleanExpression ignoreWS = new SimpleBooleanExpression(true);
+  private IBooleanExpression ignoreWS = new SimpleBooleanExpression(false);
 
   public MarkTableAction(TypeExpression typeExpr, INumberExpression indexExpr,
           WordTableExpression tableExpr, Map<IStringExpression, INumberExpression> featureMap,
